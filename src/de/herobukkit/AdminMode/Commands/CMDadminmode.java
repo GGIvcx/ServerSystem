@@ -12,7 +12,6 @@ import org.bukkit.potion.PotionEffectType;
 
 import de.herobukkit.AdminMode.Main;
 
-//Hier solltest du nichts ändern wenn du es nicht verstehst :D
 
 public class CMDadminmode implements CommandExecutor {	
 

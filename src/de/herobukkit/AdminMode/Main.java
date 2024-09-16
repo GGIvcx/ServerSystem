@@ -88,7 +88,7 @@ public class Main extends JavaPlugin {
 
 		this.reloadConfig();			
 		
-		this.getConfig().options().header("Hier kannst du mein Plugin Konfigurieren, Bitte verändere die Koordinaten die später mit /setspawn, /setspec gesetzt werden nicht in dieser Datei, nur inGame durch die Befehle -Hero");
+		this.getConfig().options().header("Here you can edit some variables to customise the plugin for your needs");
 		this.getConfig().addDefault("ServerSystem.ServerName", "YourServer");
 		this.getConfig().addDefault("ServerSystem.Prefix", "System");
 		this.getConfig().addDefault("ServerSystem.TeamSpeak", "ts.YourServer.de");

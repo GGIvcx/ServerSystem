@@ -1,0 +1,59 @@
+name: ServerSystem
+author: HeroBukkit aka. 2Mbit/s
+version: 2.1
+main: de.herobukkit.AdminMode.Main
+commands:
+     cc:
+          description: Chat clear | system.cc
+     faq:
+          description: Beantwortet alle wichtigen fragen | system.faq
+     admin:
+          description: Admin Modus | system.adminmode
+     show:
+          description: Werde sichtbar im Adminmodus | system.adminmodus
+     support:
+          description: Frage Support an | system.support
+     spec:
+          description: Spectator | system.spec
+     jumpto:
+          description: JumpTo | system.jumpto
+     setspec:
+          description: setspec | system.setspec
+     bring:
+          description: bring | system.bring
+     setspawn:
+          description: setspawn | system.setspawn
+     hide:
+          description: hide | system.hide
+     heal:
+          description: heal | system.heal
+     apply:
+          description: Bewerben
+     donate:
+          description: Spenden
+     shop:
+          description: Spenden
+     bewerben:
+          description: Bewerben
+     ts:
+          description: TeamSpeak
+     teamspeak:
+          description: TeamSpeak
+     forum:
+          description: Forum
+     help:
+          description: Hilfe
+     hilfe:
+          description: Hilfe
+     ?:
+          description: Hilfe
+     bc:
+          description: broadcast | system.bcsb
+     sb:
+          description: toggle scopreboard | system.scoreboard
+     spawn:
+          description: teleport to spawn
+     dc:
+          description: Discord
+     discord:
+          description: Discord

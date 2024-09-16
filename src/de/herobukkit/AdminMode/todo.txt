@@ -1,0 +1,7 @@
+expand help -> every entry pem dependent
+make dc command
+dc ts apply etc add args for other player
+
+make report
+make ban
+expand support with msg

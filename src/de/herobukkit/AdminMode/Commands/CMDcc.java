@@ -1,8 +1,5 @@
 package de.herobukkit.AdminMode.Commands;
 
-//Lass es einfach so :D
-//PS, Der chatclear ist für alle sichtbar
-
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

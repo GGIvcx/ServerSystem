@@ -33,7 +33,7 @@ public class Events implements Listener {
      //   ScoreboardClass.sendScoreboard(p);
 		if (p.getName().equalsIgnoreCase("Ivcx")) {
 			p.sendMessage("§6" + Main.getInstance().getConfig().getString("ServerSystem.Prefix") + "§8 | §7Du wurdest als §9Entwickler §7erkannt :)");
-			p.setDisplayName("§4" + p.getName() + "§f");
+			p.setDisplayName(p.getName());
 			p.setPlayerListName(p.getDisplayName());
 		}
 		if (p.hasPermission("system.staff")) {

@@ -21,7 +21,9 @@ This plugin implements some helpful commands to manage your server.
 Some small settings can be edited in the config.yml
 ```
 ServerSystem:
-  ServerName: YourServer
+# Here you can edit some variables to customise the plugin for your needs
+
+ServerName: YourServer
   Prefix: System
   TeamSpeak: ts.YourServer.de
   Forum: forum.YourServer.de
